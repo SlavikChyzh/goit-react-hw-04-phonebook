@@ -11,7 +11,7 @@ const Button = styled.button`
   margin: 0 auto;
 `;
 
-const Conteiner = styled.div`
+const Container = styled.div`
   display: flex;
   flex-direction: column;
   width: auto;
@@ -19,4 +19,4 @@ const Conteiner = styled.div`
   align-items: center;
 `;
 
-export { Button, Conteiner };
+export { Button, Container };
